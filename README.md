@@ -7,16 +7,18 @@
 ### I'm a Junior Front-End Developer from Spain
 <br/>
 
-### My Stack
+### My Stack:
 
 - Javascript <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png">
 - Html <img height="50" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo.png">
 - CSS <img height="50" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png">
+- React <img height="50" src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" />
 
 <br/>
 
-#### - 🥀 Currently Learning:
-- React <img height="50" src="https://logos-world.net/wp-content/uploads/2023/08/React-Symbol.png" />
+#### Currently Learning:
+- Angular <img height="50" src="https://i.pinimg.com/originals/1d/78/36/1d7836b162169e9836b6761253132a81.png" />
+- Python <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 - Vue <img height="50" src="https://positivethinking.tech/wp-content/uploads/2021/01/Logo-Vuejs.png" />
 - Tailwind <img height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_170649.png"/>
 
